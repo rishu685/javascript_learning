@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const city = cityInput.value.trim();
     if (!city) return;
 
-    // it may throw an error
+   //error fek skta hai 
     // server/database is always in another continent
 
     try {
